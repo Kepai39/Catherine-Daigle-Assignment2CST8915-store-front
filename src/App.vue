@@ -109,6 +109,7 @@ export default {
 
 <style>
 body {
+/* Replaced background with a bestbuy background*/
   background-image: url('@/assets/best-buy-background.jpg');
   background-size: cover;
   background-position: center;
@@ -158,7 +159,7 @@ a {
   color: #fff;
   text-decoration: none;
 }
-
+/* change style color to blue to match bestbuy aesthetic */
 button {
   padding: 10px;
   background-color: #005f8b;
